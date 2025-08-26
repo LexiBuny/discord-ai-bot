@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-discord.py
-openai
-python-dotenv
-flask
-
